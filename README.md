@@ -15,7 +15,7 @@
 
 - 📫 How to reach me **mohammednashmi98@gmail.com**
 
-- 📄 Know about my experiences [I have 2+ years of experience in Laravel Full stack development](I have 2+ years of experience in Laravel Full stack development)
+- 📄 Know about my experiences [I have 2+ years of experience in Laravel Full stack development]
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
